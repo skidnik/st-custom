@@ -1,2 +1,3 @@
 # st-custom
-simple terminal PKGBULD
+simple terminal PKGBULD. 
+https://st.suckless.org/
