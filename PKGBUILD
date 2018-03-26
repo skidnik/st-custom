@@ -1,3 +1,4 @@
+# Maintainer skidnik < skidnik at gmail dot com >
 
 pkgname=st-custom
 pkgver=0.8.1
